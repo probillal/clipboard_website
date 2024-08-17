@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+    .content{
+        background-image: url("images/bg-header-desktop.png");
+    }
